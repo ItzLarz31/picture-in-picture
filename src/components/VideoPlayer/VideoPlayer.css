@@ -1,0 +1,14 @@
+.video__buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.video__button-start {
+  background-color: green;
+  color: black;
+}
+
+.disabled:hover {
+  border-color: transparent;
+  cursor: default;
+}
