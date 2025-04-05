@@ -30,7 +30,7 @@ This project allows users to select their screen source, play it in a draggable 
 
 ## 📸 **Demo**
 
-> _Coming soon!_ > _(You can add a GIF or screenshot here to make it look even better.)_
+> _https://larz-pip.netlify.app/_
 
 ---
 
